@@ -40,7 +40,7 @@ public class Author {
 }
 class TestAuthor {
     public static void main(String[] arg){
-        Author b1 = new Author("Vasilevich","Vasilevich@gmail.com", 'M');
+        Author b1 = new Author("Pushkin","Puskin1837@gmail.com", 'M');
         System.out.println(b1.toString());
     }
 }
